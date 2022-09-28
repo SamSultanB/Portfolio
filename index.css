@@ -1,11 +1,23 @@
-body {
-  color: purple;
+.Profil {
+  position: relative;
+  width: 20em;
+  border: 5px solid blue;
+  border-radius: 25px;
+  box-shadow: 10px 10px 5px blueviolet;
+  padding: 10px 12px;
+  background-color: black;
+  color: aliceblue;
 }
-h1 {
-  color: black;
+
+.BIO {
+  float: left;
+  position: relative;
+  width: 20em;
+  border: 5px solid blue;
+  border-radius: 25px;
+  box-shadow: 10px 10px 5px blueviolet;
+  padding: 10px 12px;
+  background-color: black;
+  color: aliceblue;
 }
- h2 {
-  color: black;
- }
-  
 
